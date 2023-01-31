@@ -10,3 +10,4 @@ Instructions:
 9: php artisan key:generate 
 10: php artisan storage:link 
 11: php artisan serve and npm run dev
+# The-last-laravel
